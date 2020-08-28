@@ -13,3 +13,14 @@ def loop_message_n_times (message, n)
     puts message
   end
 end
+
+def output_array (array)
+  i = 0
+  while i < array.length do
+    puts array[i]
+  end
+end
+
+def return_string_array (array)
+  return 
+end
